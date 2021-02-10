@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://www.kau.se/forskare/van-giang-nguyen"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://www.kau.se/en/researchers/giang-van-nguyen"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
